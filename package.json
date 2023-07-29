@@ -1,0 +1,26 @@
+{
+  "name": "web-leaderboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/next-js": "^2.1.5",
+    "@chakra-ui/react": "^2.8.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@faker-js/faker": "^8.0.2",
+    "framer-motion": "^10.13.1",
+    "ms": "^2.1.3",
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "socket.io": "^4.7.1",
+    "socket.io-client": "^4.7.1"
+  }
+}
